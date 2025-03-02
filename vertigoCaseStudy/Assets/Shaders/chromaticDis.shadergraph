@@ -137,7 +137,17 @@
         }
     ],
     "m_GroupDatas": [],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "edfcb1238ef9414d93a87f2dbff6bb03"
+        },
+        {
+            "m_Id": "f44e5679707e43fda898ef16f0872cd1"
+        },
+        {
+            "m_Id": "2524a3ca03d144c986feb2795bfcc8fe"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -856,10 +866,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -587.5,
-            "y": -1679.5,
-            "width": 139.49993896484376,
-            "height": 166.0
+            "x": -582.0,
+            "y": -1845.500244140625,
+            "width": 139.5,
+            "height": 166.0001220703125
         }
     },
     "m_Slots": [
@@ -1518,6 +1528,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "2524a3ca03d144c986feb2795bfcc8fe",
+    "m_Title": "",
+    "m_Content": "clamp alpha value to avoid over-under opacity\n",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -139.5,
+        "y": -1525.5,
+        "width": 200.0,
+        "height": 100.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector2Node",
     "m_ObjectId": "2779fd05656b4ce79b736154f32132b1",
     "m_Group": {
@@ -1844,10 +1874,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 648.9999389648438,
-            "y": -170.00009155273438,
-            "width": 127.0,
-            "height": 101.0
+            "x": 585.5,
+            "y": -425.5,
+            "width": 126.9998779296875,
+            "height": 100.99993896484375
         }
     },
     "m_Slots": [
@@ -2391,9 +2421,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -355.0000915527344,
-            "y": -1442.5,
-            "width": 208.0000457763672,
+            "x": -442.4999694824219,
+            "y": -1442.5001220703125,
+            "width": 207.9999542236328,
             "height": 302.0
         }
     },
@@ -4462,6 +4492,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "edfcb1238ef9414d93a87f2dbff6bb03",
+    "m_Title": "",
+    "m_Content": "get r g b values and manipulate them\n",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1114.0,
+        "y": -1788.5,
+        "width": 200.0,
+        "height": 100.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "eefd04900fb14991b8cdc896502caa77",
     "m_Group": {
@@ -4539,6 +4589,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "f44e5679707e43fda898ef16f0872cd1",
+    "m_Title": "",
+    "m_Content": "create grid dissolver and its shade",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": 772.0,
+        "y": -1066.0,
+        "width": 200.0,
+        "height": 100.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "f492a4c3ec1a432c95f2843beead3a51",
     "m_Id": 2,
@@ -4579,9 +4649,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -347.49993896484377,
-            "y": -1022.5,
-            "width": 207.9999542236328,
+            "x": -355.0,
+            "y": -717.4999389648438,
+            "width": 208.0,
             "height": 327.0
         }
     },
