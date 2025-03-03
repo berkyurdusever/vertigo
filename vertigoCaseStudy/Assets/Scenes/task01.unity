@@ -39933,7 +39933,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 7.08
+  orthographic size: 7.21
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -64659,7 +64659,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7f74b1d7a731b4d11b3050a12def445f, type: 2}
+  - {fileID: 2100000, guid: 31e114e4f2856440e839d6ad6656c087, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -64679,7 +64679,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 146
+  m_SortingOrder: 2589
   m_Sprite: {fileID: 21300000, guid: 932edde95ebfc4cc7afddc9e323ada2d, type: 3}
   m_Color: {r: 1, g: 0.38819265, b: 0, a: 1}
   m_FlipX: 0

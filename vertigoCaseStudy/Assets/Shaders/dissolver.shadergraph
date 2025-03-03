@@ -2097,7 +2097,7 @@
     "m_ShaderOutputName": "Blend",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 0.20999999344348908,
+        "x": -13.170000076293946,
         "y": 0.0,
         "z": 0.0,
         "w": 0.0
@@ -4340,7 +4340,7 @@
     "m_ShaderOutputName": "InMinMax",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 0.6299999952316284,
+        "x": 3.880000114440918,
         "y": 6.760000228881836
     },
     "m_DefaultValue": {
@@ -4490,7 +4490,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Opacity",
     "m_StageCapability": 3,
-    "m_Value": 11.520000457763672,
+    "m_Value": 0.41999998688697817,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }
@@ -4758,7 +4758,7 @@
     ],
     "synonyms": [],
     "m_Precision": 0,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -5704,7 +5704,7 @@
     "m_StageCapability": 3,
     "m_Value": {
         "x": 0.49000000953674319,
-        "y": 4.75
+        "y": 0.8199999928474426
     },
     "m_DefaultValue": {
         "x": 0.0,
